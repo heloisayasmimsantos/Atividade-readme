@@ -1,7 +1,6 @@
 # Atividade-readme
 Atividade prática para aprender a criar readme
-# 📌 Nome do Projeto
-Numero secreto
+# 📌 Número Secreto
 ## 📚 Descrição do Projeto
 Este projeto foi criado para apremder a criar um readme.
 O objetivo do sistema é para descobrir o numero secreto do jogo.
